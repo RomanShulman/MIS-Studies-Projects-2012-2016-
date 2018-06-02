@@ -1,0 +1,34 @@
+BODY
+{  
+	background-image: url("bg.gif"); 
+    font-family:Arial;
+    text-align : center;
+}
+h1 {        
+
+	color: purple; 
+    background-color:pink;
+ 
+}
+h2 {        
+	color: purple;   
+}
+p {
+    font-size: 150%;
+
+}
+table {
+      font-size: 150%;
+      background: pink;
+}
+#HiglightRow tr:hover { 
+   background-color:#317082; color:#FFF;
+
+}
+a:hover
+ {
+ cursor:pointer;
+ color: black; 
+}
+
+

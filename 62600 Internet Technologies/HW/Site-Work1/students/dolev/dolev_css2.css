@@ -1,0 +1,37 @@
+#bg {
+    background: rgb(221, 252, 227);
+}
+p {
+	margin-bottom:30px;
+}
+#center {
+	text-align:center;
+}
+#headers{
+	text-align:center;
+	font-size: 25px;
+	line-height:2em;
+	color:#11AC80;
+}
+#boldText {
+	font-weight:bold;
+	text-align:center;
+}
+table {
+	width:100%;
+	margin:0px;
+	padding:0px;
+	box-shadow: 5px 5px 5px #888888;
+}
+td{
+	background-color:#AAF0AA;
+	border:1px solid #73C532;
+	border-width:0px 1px 1px 0px;
+	padding:7px;
+	font-size:14px;
+	font-family:Arial;
+	font-weight:normal;
+	color:#000000;
+	text-align:right;
+	padding:6px;
+}

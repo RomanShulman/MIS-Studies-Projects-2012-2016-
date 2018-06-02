@@ -1,0 +1,38 @@
+#bg {
+    background: rgb(206, 234, 247);
+}
+p {
+	margin-bottom:30px;
+}
+#center {
+	text-align:center;
+}
+#headers{
+	text-align:center;
+	font-size: 25px;
+	line-height:2em;
+	color:#045c90;
+}
+#boldText {
+	font-weight:bold;
+	text-align:center;
+}
+table {
+	width:100%;
+	margin:0px;
+	padding:0px;
+	box-shadow: 10px 10px 5px #888888;
+	border:2px solid #000000;
+}
+td{
+	background-color:#aad4ff;
+	border:1px solid #ffffff;
+	border-width:0px 1px 1px 0px;
+	padding:7px;
+	font-size:14px;
+	font-family:Arial;
+	font-weight:normal;
+	color:#000000;
+	text-align:right;
+	padding:6px;
+}

@@ -1,0 +1,76 @@
+﻿body {
+    background-image: url("background1.jpg");
+    background-repeat:no-repeat;
+}
+
+p {
+	margin-bottom:30px;
+    font-family:'Adobe Gothic Std';
+    font-size:16px;
+    font-style:italic;
+    font-weight:bold;
+}
+#center {
+	text-align:center;
+}
+#headers{
+	text-align:center;
+	font-size: medium;
+    font-style:italic;
+    color:#8b008b;
+    line-height:2em;
+
+}
+nt {
+    font-size :16px;
+    color:#1b95cb;
+}
+li { 
+    color:#e61682; 
+    text-align:center;
+	font-size: 35px;
+    text-decoration:underline;
+    font-style: italic;
+    font-weight:bolder;
+    
+}
+lu { 
+    color:#8b008b;
+    align-content:center;
+    text-align:center;
+	font-size: 20px;
+    font-style: italic;
+    font-weight:bold;
+}
+
+
+table {
+	width:100%;
+	margin:0px;
+	padding:0px;
+
+}
+td{
+	/*background-color:#71bc78;*/
+	border:1px solid #ffffff;
+	border-width:0px 1px 1px 0px;
+	padding:6px;
+	font-size:16px;
+	font-family:'Adobe Gothic Std';
+	font-weight:bold;
+	color:#006b3c;
+	text-align:center;
+	padding:6px;
+}
+th{
+	/*background-color:#71bc78;*/
+	border:1px solid #ffffff;
+	border-width:0px 1px 1px 0px;
+	padding:6px;
+	font-size:16px;
+	font-family:Arial;
+	font-weight:bold;
+	color:#006b3c;
+	text-align:center;
+	padding:6px;
+}

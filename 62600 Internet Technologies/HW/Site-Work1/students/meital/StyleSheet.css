@@ -1,0 +1,34 @@
+BODY {
+    background-image: url("bg2.jpg");
+    font-family: Arial;
+    text-align: left;
+}
+marquee {
+    direction:rtl;
+    background-color:blue;
+    height:52px;
+    loop:infinite;
+}
+h2 {        
+	color:navy; 
+    text-decoration: underline;  
+}
+p {
+    font-size: 150%;
+
+}
+table {
+      font-size: 150%;
+      background: skyblue;
+}
+#HiglightRow tr:hover { 
+   background-color:#317082; color:#FFF;
+
+}
+a:hover
+ {
+ cursor:pointer;
+ color: black; 
+}
+
+
